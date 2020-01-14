@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_parallel:
+
+
+Parallel Plot
+=============
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_parallel.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_parallel.py]<bokeh_plot_parallel.py>`
+
+.. literalinclude:: bokeh_plot_parallel.py
+    :lines: 7-

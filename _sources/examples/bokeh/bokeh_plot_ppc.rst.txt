@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_ppc:
+
+
+Posterior Predictive Check Plot
+===============================
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_ppc.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_ppc.py]<bokeh_plot_ppc.py>`
+
+.. literalinclude:: bokeh_plot_ppc.py
+    :lines: 7-

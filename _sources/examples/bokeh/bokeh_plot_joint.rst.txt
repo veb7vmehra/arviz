@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_joint:
+
+
+Joint Plot
+==========
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_joint.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_joint.py]<bokeh_plot_joint.py>`
+
+.. literalinclude:: bokeh_plot_joint.py
+    :lines: 7-

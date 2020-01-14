@@ -1,0 +1,15 @@
+
+.. _mpl_styles:
+
+
+Styles
+======
+
+
+
+.. image:: _images/mpl_styles.png
+
+**Python source code:** :download:`[download source: mpl_styles.py]<mpl_styles.py>`
+
+.. literalinclude:: mpl_styles.py
+    :lines: 7-

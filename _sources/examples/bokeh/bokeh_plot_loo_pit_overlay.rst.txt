@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_loo_pit_overlay:
+
+
+LOO-PIT Overlay Plot
+====================
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_loo_pit_overlay.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_loo_pit_overlay.py]<bokeh_plot_loo_pit_overlay.py>`
+
+.. literalinclude:: bokeh_plot_loo_pit_overlay.py
+    :lines: 7-

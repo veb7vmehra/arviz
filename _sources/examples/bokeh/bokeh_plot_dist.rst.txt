@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_dist:
+
+
+Dist Plot Bokeh
+===============
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_dist.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_dist.py]<bokeh_plot_dist.py>`
+
+.. literalinclude:: bokeh_plot_dist.py
+    :lines: 7-

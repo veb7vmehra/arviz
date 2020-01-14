@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_mcse:
+
+
+Quantile Monte Carlo Standard Error Plot
+========================================
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_mcse.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_mcse.py]<bokeh_plot_mcse.py>`
+
+.. literalinclude:: bokeh_plot_mcse.py
+    :lines: 7-

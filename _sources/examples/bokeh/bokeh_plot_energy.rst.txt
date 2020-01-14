@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_energy:
+
+
+Energy Plot
+===========
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_energy.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_energy.py]<bokeh_plot_energy.py>`
+
+.. literalinclude:: bokeh_plot_energy.py
+    :lines: 7-

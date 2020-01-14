@@ -1,0 +1,15 @@
+
+.. _mpl_plot_parallel:
+
+
+Parallel Plot
+=============
+
+
+
+.. image:: _images/mpl_plot_parallel.png
+
+**Python source code:** :download:`[download source: mpl_plot_parallel.py]<mpl_plot_parallel.py>`
+
+.. literalinclude:: mpl_plot_parallel.py
+    :lines: 7-

@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_khat:
+
+
+Pareto Shape Plot
+=================
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_khat.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_khat.py]<bokeh_plot_khat.py>`
+
+.. literalinclude:: bokeh_plot_khat.py
+    :lines: 7-

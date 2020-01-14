@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_kde:
+
+
+KDE Plot Bokeh
+==============
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_kde.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_kde.py]<bokeh_plot_kde.py>`
+
+.. literalinclude:: bokeh_plot_kde.py
+    :lines: 7-

@@ -1,0 +1,15 @@
+
+.. _mpl_plot_energy:
+
+
+Energy Plot
+===========
+
+
+
+.. image:: _images/mpl_plot_energy.png
+
+**Python source code:** :download:`[download source: mpl_plot_energy.py]<mpl_plot_energy.py>`
+
+.. literalinclude:: mpl_plot_energy.py
+    :lines: 7-

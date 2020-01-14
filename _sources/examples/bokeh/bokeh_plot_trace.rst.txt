@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_trace:
+
+
+Traceplot Bokeh
+===============
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_trace.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_trace.py]<bokeh_plot_trace.py>`
+
+.. literalinclude:: bokeh_plot_trace.py
+    :lines: 7-

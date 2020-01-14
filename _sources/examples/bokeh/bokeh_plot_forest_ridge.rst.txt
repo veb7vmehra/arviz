@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_forest_ridge:
+
+
+Ridgeplot
+=========
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_forest_ridge.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_forest_ridge.py]<bokeh_plot_forest_ridge.py>`
+
+.. literalinclude:: bokeh_plot_forest_ridge.py
+    :lines: 7-

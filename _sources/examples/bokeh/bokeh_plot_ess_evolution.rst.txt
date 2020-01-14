@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_ess_evolution:
+
+
+ESS Quantile Plot
+=================
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_ess_evolution.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_ess_evolution.py]<bokeh_plot_ess_evolution.py>`
+
+.. literalinclude:: bokeh_plot_ess_evolution.py
+    :lines: 7-

@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_loo_pit_ecdf:
+
+
+LOO-PIT ECDF Plot
+=================
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_loo_pit_ecdf.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_loo_pit_ecdf.py]<bokeh_plot_loo_pit_ecdf.py>`
+
+.. literalinclude:: bokeh_plot_loo_pit_ecdf.py
+    :lines: 7-

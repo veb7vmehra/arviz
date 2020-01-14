@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_pair_kde:
+
+
+KDE Pair Plot
+=============
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_pair_kde.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_pair_kde.py]<bokeh_plot_pair_kde.py>`
+
+.. literalinclude:: bokeh_plot_pair_kde.py
+    :lines: 7-

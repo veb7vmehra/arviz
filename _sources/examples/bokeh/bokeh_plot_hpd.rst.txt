@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_hpd:
+
+
+Plot HPD
+========
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_hpd.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_hpd.py]<bokeh_plot_hpd.py>`
+
+.. literalinclude:: bokeh_plot_hpd.py
+    :lines: 7-

@@ -1,0 +1,16 @@
+
+.. _bokeh_plot_posterior:
+
+
+Posterior Plot
+==============
+
+
+
+.. bokeh-plot:: /opt/arviz/doc/examples/bokeh/bokeh_plot_posterior.py
+    :source-position: none
+
+**Python source code:** :download:`[download source: bokeh_plot_posterior.py]<bokeh_plot_posterior.py>`
+
+.. literalinclude:: bokeh_plot_posterior.py
+    :lines: 7-
